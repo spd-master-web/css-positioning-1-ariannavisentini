@@ -1,6 +1,10 @@
+/* *box-sizing {
+    box-sizing: border-box;
+} */
+
 body {
     margin: 0;
-    height: 500px;
+    height: 700px;
 }
 
 
@@ -15,6 +19,8 @@ article {
 }
 
 h1 {
+    padding: 3px;
+
     font-size: 50px;
     color: blue;
     border-bottom: blue solid;
@@ -53,8 +59,8 @@ a {
 
 .link-share {
     position:absolute;
-    top: 600px;
-    right: 940px;
+    top: 700px;
+    left: 90px;
 }
 
 

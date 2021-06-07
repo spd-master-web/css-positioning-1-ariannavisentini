@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    height: 500px;
+}
+
+
+article {
+    width: 50%;
+    height: 100%;
+    border: 5px solid blue;
+    padding: 90px;
+}
+
+h1 {
+    font-size: 50px;
+    color: blue;
+}
+
+p{
+    font-size: 30px;
+}
+
+.span-positioned {
+    font-size: 20px;
+    color: red;
+    border: 2px solid red;
+    border-radius: 2000px;
+}
+
+a {
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+

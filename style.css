@@ -14,24 +14,40 @@ article {
 h1 {
     font-size: 50px;
     color: blue;
+    border-bottom: blue solid;
 }
 
 p{
     font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .span-positioned {
     font-size: 20px;
     color: red;
     border: 2px solid red;
-    border-radius: 2000px;
+    padding: 20px;
+    border-radius: 100%;
+    position: relative;
+    top: -30px;
+    left: 500px;
 }
 
 a {
     border: 1px solid blue;
+    color: blueviolet;
     border-radius: 10px;
     padding: 5px;
+    text-decoration: none;
 }
+
+.link-share {
+    position:relative;
+    top: 200px;
+    left:-270px;
+}
+
+
 
 
 
